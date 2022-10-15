@@ -9,6 +9,8 @@
 
 ​	来源：https://github.com/131A3D7/web-sercuity-sql-dictionary
 
+​	地址：https://github.com/0yaney0/CTF-tools/tree/main/Directory/SQL_injection.txt
+
 
 
 
