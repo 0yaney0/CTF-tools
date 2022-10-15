@@ -11,6 +11,14 @@
 
 ​	地址：https://github.com/0yaney0/CTF-tools/tree/main/Directory/SQL_injection.txt
 
+# 0x02 编码脚本
+
+## 2.1 URL全编码
+
+来源：https://blog.csdn.net/qq_31129545/article/details/101208047
+
+地址：
+
 
 
 
