@@ -17,7 +17,7 @@
 
 来源：https://blog.csdn.net/qq_31129545/article/details/101208047
 
-地址：
+地址：https://github.com/0yaney0/CTF-tools/blob/main/Encryption/URL%E5%85%A8%E7%BC%96%E7%A0%81.py
 
 
 
